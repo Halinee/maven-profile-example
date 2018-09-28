@@ -21,6 +21,6 @@ public class SampleController {
     public static void main(String[] args) throws Exception {
 
         SpringApplication.run(SampleController.class, args);
-SS
+SSS
     }
 }
